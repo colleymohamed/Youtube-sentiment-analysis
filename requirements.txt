@@ -1,0 +1,6 @@
+streamlit>=1.40,<2
+google-api-python-client>=2.150,<3
+pandas>=2.2,<3
+vaderSentiment>=3.3,<4
+afinn>=0.1,<1
+textblob>=0.18,<1
